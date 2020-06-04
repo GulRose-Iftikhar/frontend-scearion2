@@ -6,13 +6,13 @@ Framwork done in a short time, but tried to incorporate following best practices
 Separate page classes with locators and page specific functions
 Utility and helper classes with common used functions
 
-Random generated data through functions
-Assertions on different steps
-HTML Report generation using mochawsome
-No implicit wait is used
-cypress.json containing reporter config
-package.json containing scripts and dependencies
-gitignore file setup to ignore unnecessary files
+- Random generated data through functions
+- Assertions on different steps
+- HTML Report generation using mochawsome
+- No implicit wait is used
+- cypress.json containing reporter config
+- package.json containing scripts and dependencies
+- gitignore file setup to ignore unnecessary files
 
 
 #STEPS FOR SETUP
@@ -49,4 +49,4 @@ Generate Reports
 npm run mocha:generate:report
 
 ```
-It will generate htlm report in cypress/reports directory
+It will generate Html report in cypress/reports directory
