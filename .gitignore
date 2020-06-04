@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules
+videos
+screenshots
+
+## Reporting directory
+report.json
+reports
+mochareports
+tajawal/cypress/mochareports/report.json
+

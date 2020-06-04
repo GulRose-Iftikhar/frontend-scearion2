@@ -1,0 +1,14 @@
+{
+	"watchForFileChanges":false,
+    "baseUrl": "https://tajawal.ae",
+    "viewportHeight": 1280,
+    "viewportWidth": 1920,
+    "video": true,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "cypress/reports/separate-reports",
+      "overwrite": false,
+      "html": true,
+      "json": false
+    }
+}
